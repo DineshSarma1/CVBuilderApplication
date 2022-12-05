@@ -17,7 +17,7 @@
     <string name="telegram">Telegram</string>
     <string name="linkedin">LinkedIn</string>
     <string name="cover_photo">Cover Photo</string>
-    
+
     <string name="name">Dinesh Sarma</string>
     <string name="position">Software Engineer</string>
 
@@ -33,5 +33,18 @@
     <string name="certification">Certification</string>
 
     <string name="my_contacts">My Contacts</string>
+
+    <string name="information_to_share">
+        Name: Dinesh Kumar Sarma
+        LinkedIn Profile: https://www.linkedin.com/in/dinesh-sarma/
+    </string>
+
+    <string name="email">dsarma@miu.edu</string>
+    <string name="linkedin_profile">https://www.linkedin.com/in/dinesh-sarma/</string>
+    <string name="github_profile">https://github.com/DineshSarma1</string>
+
+    <string name="login">login</string>
+    <string name="enter_email">Enter your email here…</string>
+    <string name="enter_password">Enter your password here…</string>
 
 </resources>
